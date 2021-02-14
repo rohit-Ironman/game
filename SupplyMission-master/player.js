@@ -1,5 +1,5 @@
 class Player {
-    constructor(x,y,width,height) {
+    constructor(x,y) {
         var options = {
           isStatic: false
         }
